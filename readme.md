@@ -1,6 +1,6 @@
 # Laravel Admin User Roles
 
-## About Laravel
+## About
 
 This is a Laravel 5.5 project with multiple User roles and permissions eg. Admin, Moderator, User etc.
 Watch the full videos of how this was built on [Udemy](https://www.udemy.com/course/1532828)
